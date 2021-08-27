@@ -23,7 +23,6 @@ This repo contains code of basic Image editor to perform various task on an imag
 - Sharpening of an Image
   - Enter the value of Sigma and alpha 
 - Negative of an Image
-
 ## Installation
 ### Installing the requirements
 `pip install requirements.txt`
