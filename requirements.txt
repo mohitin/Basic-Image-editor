@@ -1,0 +1,28 @@
+===================================================================================================
+Basic Image Editor (Image Processing (EE610))
+Version 1.0
+===================================================================================================
+# libraries is much easier to install using Anaconda, especially
+# on Windows or when using a GPU. Please see the installation
+# instructions in README.md
+
+
+##### Core scientific packages
+jupyter==1.0.0
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.2.2
+scipy==1.6.0
+python-math==0.0.1
+python-os==3.9.0
+
+##### GUI packages
+Python==3.9.6 
+#Tkinter is inbuilt in python
+
+
+##### Image manipulation
+Pillow==8.2.0
+graphviz==0.16
+
+
