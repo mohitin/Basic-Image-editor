@@ -25,7 +25,7 @@ This repo contains code of basic Image editor to perform various task on an imag
 - Negative of an Image
 ## Installation
 ### Installing the requirements
-`pip install requirements.txt`
+`Pip install -r requirements.txt`
 ### Usage
 - Enhance an Image
 - Tune arguments using GUI
